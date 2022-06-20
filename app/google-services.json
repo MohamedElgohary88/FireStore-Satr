@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760774338977",
+    "project_id": "firestore-satr",
+    "storage_bucket": "firestore-satr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760774338977:android:089e631ca5d744dba0c3e0",
+        "android_client_info": {
+          "package_name": "com.example.firestore_satr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760774338977-m7crh5hf2p3oh2b9hpsknajc76ibi3mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT-zB4ztiIZqRiG3QPjqZu40LnHdHO4ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760774338977-m7crh5hf2p3oh2b9hpsknajc76ibi3mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
